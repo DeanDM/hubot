@@ -27,7 +27,8 @@
     "hubot-flowdock": ">= 0.0.1",
     "request":"*",
     "lodash" :"*",
-    "htmlparser" :"*"
+    "htmlparser" :"*",
+    "soupselect" :"*"
   },
 
   "engines": {
